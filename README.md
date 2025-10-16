@@ -1,1 +1,1 @@
-# end-to-end-CI-CD-on-AWS-EKS-using-Terraform-Jenkins-and-Grafana
+# end-to-end-ci-cd-on-aws-eks-using-terraform-jenkins-and-grafana
